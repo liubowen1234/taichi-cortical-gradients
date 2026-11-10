@@ -1,0 +1,31 @@
+{
+  "paths": {
+    "output_root": "../outputs",
+    "participants_table": "../inputs/participants.csv",
+
+    "xcpd_36P": [
+      {"dir": "/path/to/xcpd_36P/dataset1", "fc_source": "pconn"},
+      {"dir": "/path/to/xcpd_36P/dataset2", "fc_source": "dtseries"}
+    ],
+    "xcpd_32P": [
+      {"dir": "/path/to/xcpd_32P_noGSR/dataset1", "fc_source": "dtseries"},
+      {"dir": "/path/to/xcpd_32P_noGSR/dataset2", "fc_source": "dtseries"}
+    ],
+
+    "glasser_dlabel": "/path/to/xcpd_36P/dataset1/sourcedata/atlases/tpl-fsLR/tpl-fsLR_atlas-Glasser_den-91k_dseg.dlabel.nii",
+    "schaefer400_dlabel": "/path/to/xcpd_36P/dataset1/sourcedata/atlases/tpl-fsLR/tpl-fsLR_atlas-4S456Parcels_den-91k_dseg.dlabel.nii",
+    "schaefer600_dlabel": "/path/to/xcpd_36P/dataset1/sourcedata/atlases/tpl-fsLR/tpl-fsLR_atlas-4S656Parcels_den-91k_dseg.dlabel.nii",
+    "cabnp_dir": "/path/to/ColeAnticevicNetPartition-master",
+    "brainspace_matlab": "/path/to/BrainSpace/matlab",
+    "nbs_dir": "/path/to/NBS1.2",
+
+    "neuromaps_data": "~/neuromaps-data",
+    "nimare_data": "~/nimare-data",
+    "font_dir": ""
+  },
+  "analysis": {
+    "motion_exclusion_meanFD_mm": 0.25,
+    "spin_permutations": 10000,
+    "spin_seed": 20260927
+  }
+}

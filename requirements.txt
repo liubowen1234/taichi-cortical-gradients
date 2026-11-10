@@ -1,0 +1,13 @@
+# Python 3.11 or later. Versions used for the paper:
+numpy==2.2.6
+scipy==1.15.2
+pandas
+statsmodels==0.14.6
+h5py
+nibabel
+matplotlib
+# optional: Crameri colour maps (a built-in fallback is used if missing)
+cmcrameri
+# only for pipeline/04_spatial/s02_fetch_reference_maps.py (also needs Connectome Workbench, wb_command)
+neuromaps==0.0.7
+nimare==0.21.0
