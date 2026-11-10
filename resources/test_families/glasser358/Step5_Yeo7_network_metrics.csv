@@ -1,0 +1,22 @@
+Family,NetworkA,NetworkB,MetricType
+Yeo7_Network,visual,,MeanG1
+Yeo7_Network,visual,,MeanG2
+Yeo7_Network,visual,,WithinDispersion2D
+Yeo7_Network,dorsal attention,,MeanG1
+Yeo7_Network,dorsal attention,,MeanG2
+Yeo7_Network,dorsal attention,,WithinDispersion2D
+Yeo7_Network,somatosensory,,MeanG1
+Yeo7_Network,somatosensory,,MeanG2
+Yeo7_Network,somatosensory,,WithinDispersion2D
+Yeo7_Network,default mode,,MeanG1
+Yeo7_Network,default mode,,MeanG2
+Yeo7_Network,default mode,,WithinDispersion2D
+Yeo7_Network,ventral attention,,MeanG1
+Yeo7_Network,ventral attention,,MeanG2
+Yeo7_Network,ventral attention,,WithinDispersion2D
+Yeo7_Network,frontoparietal,,MeanG1
+Yeo7_Network,frontoparietal,,MeanG2
+Yeo7_Network,frontoparietal,,WithinDispersion2D
+Yeo7_Network,limbic,,MeanG1
+Yeo7_Network,limbic,,MeanG2
+Yeo7_Network,limbic,,WithinDispersion2D

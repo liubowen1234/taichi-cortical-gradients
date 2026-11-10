@@ -1,0 +1,8 @@
+Family,NetworkA,NetworkB,MetricType
+Yeo7_NetworkDispersion3D,Vis,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,SomMot,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,DorsAttn,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,SalVentAttn,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,Limbic,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,Cont,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,Default,,WithinDispersionSS3D

@@ -1,0 +1,8 @@
+Family,NetworkA,NetworkB,MetricType
+Yeo7_NetworkDispersion3D,visual,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,dorsal attention,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,somatosensory,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,default mode,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,ventral attention,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,frontoparietal,,WithinDispersionSS3D
+Yeo7_NetworkDispersion3D,limbic,,WithinDispersionSS3D

@@ -1,0 +1,22 @@
+Family,NetworkA,NetworkB,MetricType
+Yeo7_Pairs3D,visual,dorsal attention,CentroidDistance3D
+Yeo7_Pairs3D,visual,somatosensory,CentroidDistance3D
+Yeo7_Pairs3D,visual,default mode,CentroidDistance3D
+Yeo7_Pairs3D,visual,ventral attention,CentroidDistance3D
+Yeo7_Pairs3D,visual,frontoparietal,CentroidDistance3D
+Yeo7_Pairs3D,visual,limbic,CentroidDistance3D
+Yeo7_Pairs3D,dorsal attention,somatosensory,CentroidDistance3D
+Yeo7_Pairs3D,dorsal attention,default mode,CentroidDistance3D
+Yeo7_Pairs3D,dorsal attention,ventral attention,CentroidDistance3D
+Yeo7_Pairs3D,dorsal attention,frontoparietal,CentroidDistance3D
+Yeo7_Pairs3D,dorsal attention,limbic,CentroidDistance3D
+Yeo7_Pairs3D,somatosensory,default mode,CentroidDistance3D
+Yeo7_Pairs3D,somatosensory,ventral attention,CentroidDistance3D
+Yeo7_Pairs3D,somatosensory,frontoparietal,CentroidDistance3D
+Yeo7_Pairs3D,somatosensory,limbic,CentroidDistance3D
+Yeo7_Pairs3D,default mode,ventral attention,CentroidDistance3D
+Yeo7_Pairs3D,default mode,frontoparietal,CentroidDistance3D
+Yeo7_Pairs3D,default mode,limbic,CentroidDistance3D
+Yeo7_Pairs3D,ventral attention,frontoparietal,CentroidDistance3D
+Yeo7_Pairs3D,ventral attention,limbic,CentroidDistance3D
+Yeo7_Pairs3D,frontoparietal,limbic,CentroidDistance3D

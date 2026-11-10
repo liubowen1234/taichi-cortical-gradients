@@ -1,0 +1,8 @@
+Family,Metric
+Exploratory_Global_Geometry,AnisotropyIndex
+Exploratory_Global_Geometry,ConvexHullArea
+Exploratory_Global_Geometry,MeanPairwiseDistance
+Exploratory_Global_Geometry,TotalVariance2D
+Exploratory_Global_Geometry,MajorVariance
+Exploratory_Global_Geometry,MinorVariance
+Exploratory_Global_Geometry,GlobalDispersion3DMean

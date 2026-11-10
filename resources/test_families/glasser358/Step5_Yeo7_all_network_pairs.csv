@@ -1,0 +1,64 @@
+Family,NetworkA,NetworkB,MetricType
+Yeo7_Pairs,visual,dorsal attention,DeltaG1_BminusA
+Yeo7_Pairs,visual,dorsal attention,DeltaG2_BminusA
+Yeo7_Pairs,visual,dorsal attention,CentroidDistance2D
+Yeo7_Pairs,visual,somatosensory,DeltaG1_BminusA
+Yeo7_Pairs,visual,somatosensory,DeltaG2_BminusA
+Yeo7_Pairs,visual,somatosensory,CentroidDistance2D
+Yeo7_Pairs,visual,default mode,DeltaG1_BminusA
+Yeo7_Pairs,visual,default mode,DeltaG2_BminusA
+Yeo7_Pairs,visual,default mode,CentroidDistance2D
+Yeo7_Pairs,visual,ventral attention,DeltaG1_BminusA
+Yeo7_Pairs,visual,ventral attention,DeltaG2_BminusA
+Yeo7_Pairs,visual,ventral attention,CentroidDistance2D
+Yeo7_Pairs,visual,frontoparietal,DeltaG1_BminusA
+Yeo7_Pairs,visual,frontoparietal,DeltaG2_BminusA
+Yeo7_Pairs,visual,frontoparietal,CentroidDistance2D
+Yeo7_Pairs,visual,limbic,DeltaG1_BminusA
+Yeo7_Pairs,visual,limbic,DeltaG2_BminusA
+Yeo7_Pairs,visual,limbic,CentroidDistance2D
+Yeo7_Pairs,dorsal attention,somatosensory,DeltaG1_BminusA
+Yeo7_Pairs,dorsal attention,somatosensory,DeltaG2_BminusA
+Yeo7_Pairs,dorsal attention,somatosensory,CentroidDistance2D
+Yeo7_Pairs,dorsal attention,default mode,DeltaG1_BminusA
+Yeo7_Pairs,dorsal attention,default mode,DeltaG2_BminusA
+Yeo7_Pairs,dorsal attention,default mode,CentroidDistance2D
+Yeo7_Pairs,dorsal attention,ventral attention,DeltaG1_BminusA
+Yeo7_Pairs,dorsal attention,ventral attention,DeltaG2_BminusA
+Yeo7_Pairs,dorsal attention,ventral attention,CentroidDistance2D
+Yeo7_Pairs,dorsal attention,frontoparietal,DeltaG1_BminusA
+Yeo7_Pairs,dorsal attention,frontoparietal,DeltaG2_BminusA
+Yeo7_Pairs,dorsal attention,frontoparietal,CentroidDistance2D
+Yeo7_Pairs,dorsal attention,limbic,DeltaG1_BminusA
+Yeo7_Pairs,dorsal attention,limbic,DeltaG2_BminusA
+Yeo7_Pairs,dorsal attention,limbic,CentroidDistance2D
+Yeo7_Pairs,somatosensory,default mode,DeltaG1_BminusA
+Yeo7_Pairs,somatosensory,default mode,DeltaG2_BminusA
+Yeo7_Pairs,somatosensory,default mode,CentroidDistance2D
+Yeo7_Pairs,somatosensory,ventral attention,DeltaG1_BminusA
+Yeo7_Pairs,somatosensory,ventral attention,DeltaG2_BminusA
+Yeo7_Pairs,somatosensory,ventral attention,CentroidDistance2D
+Yeo7_Pairs,somatosensory,frontoparietal,DeltaG1_BminusA
+Yeo7_Pairs,somatosensory,frontoparietal,DeltaG2_BminusA
+Yeo7_Pairs,somatosensory,frontoparietal,CentroidDistance2D
+Yeo7_Pairs,somatosensory,limbic,DeltaG1_BminusA
+Yeo7_Pairs,somatosensory,limbic,DeltaG2_BminusA
+Yeo7_Pairs,somatosensory,limbic,CentroidDistance2D
+Yeo7_Pairs,default mode,ventral attention,DeltaG1_BminusA
+Yeo7_Pairs,default mode,ventral attention,DeltaG2_BminusA
+Yeo7_Pairs,default mode,ventral attention,CentroidDistance2D
+Yeo7_Pairs,default mode,frontoparietal,DeltaG1_BminusA
+Yeo7_Pairs,default mode,frontoparietal,DeltaG2_BminusA
+Yeo7_Pairs,default mode,frontoparietal,CentroidDistance2D
+Yeo7_Pairs,default mode,limbic,DeltaG1_BminusA
+Yeo7_Pairs,default mode,limbic,DeltaG2_BminusA
+Yeo7_Pairs,default mode,limbic,CentroidDistance2D
+Yeo7_Pairs,ventral attention,frontoparietal,DeltaG1_BminusA
+Yeo7_Pairs,ventral attention,frontoparietal,DeltaG2_BminusA
+Yeo7_Pairs,ventral attention,frontoparietal,CentroidDistance2D
+Yeo7_Pairs,ventral attention,limbic,DeltaG1_BminusA
+Yeo7_Pairs,ventral attention,limbic,DeltaG2_BminusA
+Yeo7_Pairs,ventral attention,limbic,CentroidDistance2D
+Yeo7_Pairs,frontoparietal,limbic,DeltaG1_BminusA
+Yeo7_Pairs,frontoparietal,limbic,DeltaG2_BminusA
+Yeo7_Pairs,frontoparietal,limbic,CentroidDistance2D
